@@ -1,0 +1,55 @@
+.App {
+  font-family: 'Quintessential', cursive;
+   margin:50px;
+}
+.img {
+  /* height: 600px;
+  width: 600px; */
+  border-radius: 0%;
+  object-fit: cover;
+}
+.name {
+  font-size: 50px;
+  font-style: italic;
+}
+.card{
+  background-color:blueviolet;
+  margin: 100px ;
+}
+.flex{
+  display: flex;
+  text-align: justify;
+  align-content: space-around;
+}
+span:hover{
+    border-bottom:2px solid blue;
+    color:blue;
+  } 
+.align{
+font-size: 30px;
+text-align: center;
+border: 2px solid ghostwhite;
+padding:20px;
+}
+button{
+  padding:10px;
+  margin:5px;
+ }
+.second{
+  padding:10px;
+  margin:10px;
+  border:1px solid whitesmoke;
+  background-color:ghostwhite;
+  }
+.container{
+  background-color:gainsboro;
+  padding: 20px;
+}
+.first{
+  padding:10px;
+  margin:10px;
+  border:1px solid whitesmoke;
+}
+h1{
+  text-align: center;
+}
