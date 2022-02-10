@@ -1,6 +1,4 @@
 import "./index.css";
-
-
 export default function App() {
   const pricingtble=[{
     name:"FREE",
